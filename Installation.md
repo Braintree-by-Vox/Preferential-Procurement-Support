@@ -22,25 +22,25 @@ When the 'Install Extension' dialog appears, click on Install:
 ### Licence registration
 Go to Purchases and Payables Setup.  From the Actions menu, select Preferential Procurement:
 
- ![alt text](OpenFromPP.png)
+ ![alt text](/images/OpenFromPP.png)
 
 Click on ‘Register Product’:
  
-![alt text](RegisterProduct.png)
+![alt text](/images/RegisterProduct.png)
 
 Select the product from the list. Enter your email address. Click on ‘Request Subscription/Trial License’:A 
 
-![alt text](RequestLicence.png) 
+![alt text](/images/RequestLicence.png) 
 
 A message will be sent to the Braintree Support desk. A licence key will be returned to you via email.
 On the same page, select ‘Update licence key’. In the dialog box, paste the key provided to you, then click OK:
 
- ![alt text](UpdateLicence.png)
+ ![alt text](/images/UpdateLicence.png)
 
 Your app is now ready to use.
 
 ### Set up default options
 From the Preferential Procurement setup page, you can optionally create default initial values for Scorecard Type, Procurement Category and Contribution Level.  These will be used as defaults for new vendors:
 
- ![alt text](Setup.png)
+ ![alt text](/images/Setup.png)
 
