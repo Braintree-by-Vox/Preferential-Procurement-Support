@@ -25,4 +25,8 @@
 From the Vendor list, go to the Reports menu.
 Select Preferential Procurement Statistics to review on the screen.
 
-![alt text](/images/SelectStatistics.png.png)
+![alt text](/images/SelectStatistics.png)
+
+The report will open. You can use standard Business Central analysis mode to examine the data.
+
+![alt text](/images/stats.png)
